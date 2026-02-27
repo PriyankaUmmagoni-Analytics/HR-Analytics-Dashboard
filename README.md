@@ -54,5 +54,5 @@ Age group 26–35 shows peak attrition.
 
 ## 📷 Dashboard Preview
 
-![Dashboard overview](Dashboard_overview.png.png)
+![Dashboard overview](Dashboard_overview.png)
 

@@ -1,9 +1,10 @@
-HR Analytics Dashboard – End-to-End Data Analysis Project
-##📌 Project Overview
+## HR Analytics Dashboard – End-to-End Data Analysis Project
+
+## 📌 Project Overview
 
 This project analyzes employee attrition trends and workforce insights using SQL and Power BI. The objective is to identify key factors contributing to employee turnover and provide data-driven business insights.
 
-##🛠 Tools Used
+## 🛠 Tools Used
 
 SQL (Database creation, normalization, analysis queries)
 
@@ -11,7 +12,7 @@ Power BI (Data modeling, DAX, dashboard design)
 
 DAX (KPI calculations & metrics)
 
-##🗂 Project Workflow
+## 🗂 Project Workflow
 
 Created HR database in SQL.
 
@@ -25,7 +26,7 @@ Built interactive dashboard with KPIs and insights.
 
 Implemented DAX measures for attrition rate and workforce metrics.
 
-##📊 Key KPIs
+## 📊 Key KPIs
 
 Total Employees
 
@@ -39,7 +40,7 @@ Average Age
 
 Average Years at Company
 
-##🔎 Key Insights
+## 🔎 Key Insights
 
 16.1% attrition rate observed.
 
@@ -51,7 +52,7 @@ Laboratory Technicians and Sales Executives show highest turnover.
 
 Age group 26–35 shows peak attrition.
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 
 ![Dashboard overview](Dashboard_overview.png.png)
 
